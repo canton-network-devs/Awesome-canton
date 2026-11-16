@@ -13,7 +13,7 @@ If you're new here, pick your persona below and follow the route. If you already
 - [Start Here: Pick Your Route](#start-here-pick-your-route)
   - [I'm new to blockchain development](#im-new-to-blockchain-development)
   - [I'm coming from Ethereum / Solidity](#im-coming-from-ethereum--solidity)
-  - [I'm coming from another chain (Solana, Cosmos, etc.)](#im-coming-from-another-chain-solana-cosmos-etc)
+  - [I'm coming from Solana, Cosmos, etc.](#im-coming-from-solana-cosmos-etc)
   - [I'm an architect, PM or institution evaluating Canton](#im-an-architect-pm-or-institution-evaluating-canton)
   - [I'm integrating a wallet, exchange or custody product](#im-integrating-a-wallet-exchange-or-custody-product)
   - [I want to run a validator](#i-want-to-run-a-validator)
@@ -48,7 +48,7 @@ Each route is a short, ordered path. Do the steps in order, and don't skip Local
 3. **[Module 3: Daml Smart Contracts](https://docs.canton.network/appdev/modules/m3-dev-environment)**: start writing Daml.
 4. **[Module 4: Building Applications](https://docs.canton.network/appdev/modules/m4-building-apps-intro)**: ship an end-to-end app.
 
-### I'm coming from another chain (Solana, Cosmos, etc.)
+### I'm coming from Solana, Cosmos, etc.
 
 1. **[Five-Minute Overview](https://docs.canton.network/overview/understand/five-minute-overview)**
 2. **[Architecture Overview](https://docs.canton.network/overview/learn/architecture)**: how Canton's network of networks differs from a single global state machine.

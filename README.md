@@ -6,7 +6,7 @@
 
 Canton is a public, privacy-enabled Layer 1 built for regulated finance. Smart contracts are written in Daml, each party sees only the data it is entitled to, and apps across the network can settle atomically through the Global Synchronizer.
 
-If you're new here, pick your persona below and follow the route. If you already know how to build and you're asking *"okay, but what should I build?"*, skip to **[Use Cases We Want Built](#use-cases-we-want-built)**.
+If you're new here, pick your persona below and follow the route. If you already know how to build and you're asking *"okay, but what should I build?"*, skip to **[Ideas for Canton Use Cases to Build](#use-case-ideas-to-build)**.
 
 ## Contents
 
@@ -27,7 +27,7 @@ If you're new here, pick your persona below and follow the route. If you already
   - [Explorers and Network Data](#explorers-and-network-data)
   - [Rewards and Tokenomics](#rewards-and-tokenomics)
   - [Community and Support](#community-and-support)
-- [Use Cases We Want Built](#use-cases-we-want-built)
+- [Ideas for Canton Use Cases to Build](#use-case-ideas-to-build)
 
 ## Start Here: Pick Your Route
 
@@ -153,11 +153,11 @@ Each route is a short, ordered path. Do the steps in order, and don't skip Local
 |---|---|
 | [Canton Forum](https://forum.canton.network/) | The primary place for technical questions, Dev Fund proposals and announcements. Search here first; someone has probably hit your error before. |
 
-## Use Cases We Want Built
+## Use Case Ideas to Build
 
 You can Build a Canton dApp, **So what do you actually build?**
 
-Below are the use cases the Canton ecosystem needs most right now. They're grounded in what's already live on the network: tokenized Treasuries and repo, stablecoins like USDCx and USD1, institutional trading venues and early DeFi. 
+Below are the use cases the Canton ecosystem has shown interest for, They're grounded in what's already live on the network: tokenized Treasuries and repo, stablecoins like USDCx and USD1, institutional trading venues and early DeFi. 
 
 ### Institutional capital markets
 

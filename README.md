@@ -79,7 +79,6 @@ Each route is a short, ordered path. Do the steps in order, and don't skip Local
 ### I'm a system integrator or dev shop
 
 1. **[Canton Developer Certification](https://certification.canton.foundation)**: get your team certified on Daml 3.
-2. **[Canton Partners](https://directory.canton.foundation/)**: the directory of SIs and dev studios with proof of work.
 
 ### I want funding or to shape the protocol
 
